@@ -57,7 +57,6 @@ void render_game(void)
 	clearColorBuffer(0xFF000000);
 
 	renderWall();
-
 	renderMap();
 	renderRays();
 	renderPlayer();
