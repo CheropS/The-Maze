@@ -25,7 +25,6 @@ void movePlayer(float DeltaTime)
 
 /**
  * renderPlayer - render the player
- *
 */
 
 void renderPlayer(void)
