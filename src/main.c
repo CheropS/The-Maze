@@ -6,7 +6,6 @@ player_t player;
 
 /**
  * setup_game - initialize player variables and load wall textures
- *
 */
 
 void setup_game(void)
@@ -28,8 +27,8 @@ void setup_game(void)
 /**
  * update_game - update_game delta time, the ticks last frame
  *          the player movement and the ray casting
- *
 */
+
 void update_game(void)
 {
 	float DeltaTime;
@@ -49,7 +48,6 @@ void update_game(void)
 
 /**
  * render - calls all functions needed for on-screen rendering
- *
 */
 
 void render_game(void)
