@@ -66,7 +66,6 @@ int getMapValue(int row, int col)
 
 /**
  * renderMap - render the map
- *
 */
 
 void renderMap(void)
