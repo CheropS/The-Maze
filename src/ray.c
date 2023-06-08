@@ -10,7 +10,6 @@ static int horzWallContent, vertWallContent;
 /**
  * horzIntersection - Finds horizontal intersection with the wall
  * @rayAngle: current ray angle
- *
  */
 
 void horzIntersection(float rayAngle)
@@ -55,7 +54,6 @@ void horzIntersection(float rayAngle)
 /**
  * vertIntersection - Finds vertical intersection with the wall
  * @rayAngle: current ray angle
- *
  */
 
 void vertIntersection(float rayAngle)
