@@ -15,6 +15,9 @@ git clone https://github.com/CheropS/The-Maze.git
 * Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
 * Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
 
+## Contributing
+To contribute to the project, kindly git clone and request collaboration on Github. 
+
 ## Compilation
 ```sh
 gcc -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`
